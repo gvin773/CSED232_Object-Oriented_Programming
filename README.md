@@ -10,19 +10,19 @@ C++를 활용한 간단한 문제 해결
 
 ### Assignment2 - 포켓몬 배틀
 C++의 class를 활용하여 '포켓몬 배틀' 구현
-![class diagram](https://github.com/vincent773/img_dummy_repo/blob/main/CSED232/assn2_class%20diagram.jpg)
+![class diagram](https://github.com/vincent773/CSED232_Object-Oriented_Programming/blob/master/Images/assn2_class%20diagram.jpg)
 
 ### Assignment3 - 십이장기
 다음과 같은 개념들을 활용하여 십이장기 게임 구현
 1. Inheritance & Polymorphism
 2. Operator Overloading
 3. Dynamic Memory Allocation with Classes
-![class diagram](https://github.com/vincent773/img_dummy_repo/blob/main/CSED232/assn3_class%20diagram.PNG)
+![class diagram](https://github.com/vincent773/CSED232_Object-Oriented_Programming/blob/master/Images/assn3_class%20diagram.PNG)
 
 ### Assignment4 - 포켓몬 GO
 C++의 STL과 template을 활용하여 ‘포켓몬 GO’ 구현
-![class diagram](https://github.com/vincent773/img_dummy_repo/blob/main/CSED232/assn4_class%20diagram.jpg)
+![class diagram](https://github.com/vincent773/CSED232_Object-Oriented_Programming/blob/master/Images/assn4_class%20diagram.jpg)
 
 ### Assignment5 - 시간표 프로그램
 Qt 프레임워크를 활용하여 시간표 프로그램 구현  
-![class diagram](https://github.com/vincent773/img_dummy_repo/blob/main/CSED232/image.png)
+![class diagram](https://github.com/vincent773/CSED232_Object-Oriented_Programming/blob/master/Images/image.png)
